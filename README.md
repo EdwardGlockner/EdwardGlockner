@@ -1,4 +1,4 @@
-[![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=edwardglockner)](https://github.com/edwardglockner/github-readme-stats&theme=dracula)
+[![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username&theme=dracula=edwardglockner)](https://github.com/edwardglockner/github-readme-stats)
 
 
 <!--
