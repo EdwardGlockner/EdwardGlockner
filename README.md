@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="assets/header-dark.png" alt="Edward Glockner" width="100%" />
-</p>
+<h1 align="center">Edward Glockner</h1>
 
 <p align="center">
   Interested in deep learning and AI across research and engineering.
