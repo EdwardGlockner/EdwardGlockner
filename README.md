@@ -4,7 +4,7 @@ Interested in deep learning and AI across research and engineering.
 
 ## Selected Work
 
-- [Uncertainty-Quantification-Frozen-Embeddings](https://github.com/EdwardGlockner/Uncertainty-Quantification-Frozen-Embeddings)
+- [asymvlm](https://github.com/EdwardGlockner/asymvlm) - code related to a NeurIPS paper
 - [DeadBase](https://github.com/EdwardGlockner/DeadBase) (WIP, more coming soon)
 
 ## Links
