@@ -1,6 +1,10 @@
-# Edward Glockner
+<p align="center">
+  <img src="assets/header-dark.png" alt="Edward Glockner" width="100%" />
+</p>
 
-Interested in deep learning and AI across research and engineering.
+<p align="center">
+  Interested in deep learning and AI across research and engineering.
+</p>
 
 ## Selected Work
 
