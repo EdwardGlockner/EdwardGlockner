@@ -6,8 +6,13 @@
 
 ## Selected Work
 
+- [rumblex](https://github.com/EdwardGlockner/rumblex): transcription with word timestamps, speaker labels and
+  subtitles on Reson8's Rumble-2-Flash speech model. `pip install rumblex`
 - [Exploiting the Asymmetric Uncertainty Structure of Pre-trained VLMs on the Unit Hypersphere](https://github.com/EdwardGlockner/asymvlm) (NeurIPS 2025)
-- [DeadBase: an AI coaching agent for Deadlock](https://github.com/EdwardGlockner/DeadBase) (WIP, more coming soon)
+- [ml-rail](https://github.com/EdwardGlockner/ml-rail): training-free continual learning for CLIP with per-domain gating
+- [gpushift](https://github.com/EdwardGlockner/gpushift): a local GPU job queue for sharing one machine between
+  Claude Code agents and yourself
+- [DeadBase](https://github.com/EdwardGlockner/DeadBase): an AI coaching agent for Deadlock (WIP)
 
 ## Links
 
