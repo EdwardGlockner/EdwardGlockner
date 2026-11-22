@@ -16,4 +16,4 @@
 
 ## Links
 
-- [LinkedIn](https://www.linkedin.com/in/edwardglockner/), - [Website](https://edwardglockner.com/)
+- [LinkedIn](https://www.linkedin.com/in/edwardglockner/), [Website](https://edwardglockner.com/)
